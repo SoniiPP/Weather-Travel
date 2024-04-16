@@ -1,0 +1,34 @@
+/* .card{
+    margin:2px 5px;
+    border:10px solid var(--dark);
+    border-radius: var(--border-radius);
+    padding-top: 15px;
+    display: flex;
+    
+    
+}
+.card-header{
+color: var(--primary);
+background-color: var(--dark);
+padding: 2.5%;
+font-size: smalls;
+
+}
+
+#search-button{
+    color:whitesmoke;
+    background-color: rgb(101, 175, 235);
+    
+}
+  
+  #current-weather {
+    /* Styles for the current weather display */
+     }
+  
+    #forecast {
+      /* Styles for the 5-day forecast */
+     }
+  
+     header{
+      font-size:50px solid;
+    }  */
